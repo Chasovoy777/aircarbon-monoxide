@@ -16,15 +16,10 @@ struct {
 void setup() 
 {
   RemoteXY_Init (); 
-  
   // TODO setup code
-  
 }
-
 void loop() 
 { 
   RemoteXY_Handler ();
-
   // TODO you loop code
-
 }
